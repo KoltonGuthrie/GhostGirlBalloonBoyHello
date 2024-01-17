@@ -1,8 +1,8 @@
 {
-    "name": "GhostGirlBalloonBoyHello",
+    "name": "Ghost Girl Balloon Boy Hello",
     "version_number": "1.0.0",
-    "website_url": "null",
-    "description": "Ghost girl balloon boy hello.",
+    "website_url": "https://github.com/KoltonGuthrie/GhostGirlBalloonBoyHello",
+    "description": "Added the Balloon Boy hello whenever you see the Ghost girl",
     "dependencies": [
         "BepInEx-BepInExPack-5.4.2100"
     ]
