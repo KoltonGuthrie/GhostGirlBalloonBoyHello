@@ -1,0 +1,9 @@
+{
+    "name": "GhostGirlBalloonBoyHello",
+    "version_number": "1.0.0",
+    "website_url": "null",
+    "description": "Ghost girl balloon boy hello.",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100"
+    ]
+}
